@@ -1,0 +1,10 @@
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.csproj.AssemblyReference.cache
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.FrmSimulation.resources
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.Properties.Resources.resources
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.csproj.GenerateResource.cache
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\bin\Debug\SimulationProcessManager.exe.config
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\bin\Debug\SimulationProcessManager.exe
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\bin\Debug\SimulationProcessManager.pdb
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.exe
+C:\Users\ChristopherBlack\source\repos\SimulationProcessManager\SimulationProcessManager\obj\Debug\SimulationProcessManager.pdb
